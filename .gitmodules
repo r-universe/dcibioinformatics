@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fastJT"]
+	path = fastJT
+	url = https://github.com/cran/fastJT
+	shallow = true
+	registered = true
+[submodule "groupedSurv"]
+	path = groupedSurv
+	url = https://github.com/cran/groupedSurv
+	shallow = true
+	registered = true
+[submodule "snplist"]
+	path = snplist
+	url = https://github.com/cran/snplist
+	shallow = true
+	registered = true
+[submodule "survSNP"]
+	path = survSNP
+	url = https://github.com/cran/survSNP
+	shallow = true
+	registered = true
